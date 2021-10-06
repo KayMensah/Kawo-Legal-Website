@@ -1,0 +1,27 @@
+.containerpage {
+	width: 100%;
+
+}
+.kor {
+	margin-left: 50rem;
+}
+.line {
+	width: 40rem;
+	border-color: grey;
+	height: 0.1rem;
+	background-color: grey;
+	size: bold;
+}
+footer{
+	position: relative;
+	background-color: lightgrey;
+	width: 100%;
+	
+
+}
+.textcolor {
+	color: white;
+}
+.fab {
+	padding-left: 30px;
+}
